@@ -1,0 +1,14 @@
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.body-text {
+  text-align: center;
+}
+
+.accom-title {
+  text-align: center;
+  text-decoration: underline;
+}
